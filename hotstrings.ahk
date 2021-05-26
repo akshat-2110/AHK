@@ -48,6 +48,7 @@ SetWorkingDir, %A_ScriptDir%
 ::req::requirement
 ::del::delete
 ::loc::location
+::exp::experience
 
 
 
