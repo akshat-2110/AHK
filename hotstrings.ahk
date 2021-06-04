@@ -49,8 +49,11 @@ SetWorkingDir, %A_ScriptDir%
 ::del::delete
 ::loc::location
 ::exp::experience
-
-
+::acc::according
+::var::variable
+::dep::dependencies
+::dev::developement
+::deve::developer
 
 ::bcoz::because,
 
@@ -59,7 +62,7 @@ SetWorkingDir, %A_ScriptDir%
 ::ttyl::talk to you later
 
 ::br::BR,{Enter}Akshat Singhal
-::heym::Hi,{Enter}{Enter}{Enter}{Enter}BR,{Enter}Akshat Singhal{Enter}{left 21}
+::heym::Hi,{Enter}{Enter}{Enter}{Enter}BR,{Enter}Akshat Singhal{Enter}{left 24}
 ::rslot::Hi,{Enter}{Enter}Reserving the slot for the same.{Enter}{Enter}BR,{Enter}Akshat Singhal{Enter}{left 58}
 ::pat::Hi,{Enter}{Enter}{Enter}{Enter}Purpose:{Enter}-{Space}{Space}{Enter}{Enter}{Enter}Action:{Enter}-{Space}{Space}{Enter}{Enter}{Enter}Timeline:{Enter}-{Space}{Space}{Enter}{Enter}{Enter}BR,{Enter}Akshat Singhal{Enter}{Enter}{left 66}
 
