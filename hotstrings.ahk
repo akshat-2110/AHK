@@ -16,6 +16,10 @@ SetWorkingDir, %A_ScriptDir%
 ::-ve::negative
 ::soln::solution
 ::env::environment
+::comm::communication
+::exp::experience
+
+::ahk::AutoHotkey
 ::u::you
 ::ur::your
 ::i::I
@@ -25,7 +29,7 @@ SetWorkingDir, %A_ScriptDir%
 ::tq::Thanks
 ::cyp::Can you please ?{left 2}
 ::aiot::Any idea on this?
-::comm::communicate
+::bcoz::because,
 ::aka::also known as
 ::exa::example
 ::ans::answer
@@ -41,6 +45,7 @@ SetWorkingDir, %A_ScriptDir%
 ::ppts::presentations
 ::prep::preparation
 ::desc::descriptive
+::docu::documentatation
 ::des::description
 ::lil::little
 ::tech::technology
@@ -55,21 +60,75 @@ SetWorkingDir, %A_ScriptDir%
 ::dev::developement
 ::deve::developer
 
-::bcoz::because,
+
+::br::
+(
+BR,
+Akshat Singhal
+)
+
+::heym::
+SendInput, 
+(
+Hi ,
+
+
+BR,
+Akshat Singhal
+
+)
+SendInput, {Up 5}{End}{Left}
+return
+
+::rslot::
+SendInput, 
+(
+Hi ,
+
+Reserving the slot for the same.
+
+BR,
+Akshat Singhal
+
+)
+SendInput, {Up 6}{End}{Left}
+return
+
+
+::pat::
+SendInput, 
+(
+Hi ,
+
+
+
+Purpose:
+-  
+
+
+Action:
+-  
+
+
+Timeline:
+-  
+
+
+BR,
+Akshat Singhal
+
+)
+SendInput, {Up 18}{End}{Left}
+return
+
 
 ::ttl::In middle of something, will talk to you soon
 ::mttl::In meeting, will come back to you soon
 ::ttyl::talk to you later
 
-::br::BR,{Enter}Akshat Singhal
-::heym::Hi,{Enter}{Enter}{Enter}{Enter}BR,{Enter}Akshat Singhal{Enter}{left 24}
-::rslot::Hi,{Enter}{Enter}Reserving the slot for the same.{Enter}{Enter}BR,{Enter}Akshat Singhal{Enter}{left 58}
-::pat::Hi,{Enter}{Enter}{Enter}{Enter}Purpose:{Enter}-{Space}{Space}{Enter}{Enter}{Enter}Action:{Enter}-{Space}{Space}{Enter}{Enter}{Enter}Timeline:{Enter}-{Space}{Space}{Enter}{Enter}{Enter}BR,{Enter}Akshat Singhal{Enter}{Enter}{left 66}
 
-::mygmail::akshatsinghal2110@gmail.com
-::myoutlook::akshat.singhal@infineon.com
-::mymob::7017278231
-
-
-
+:*:i@::akshat.singhal@infineon.com
+:*:g@::akshatsinghal2110@gmail.com
+::mob::7017278231
+::myname::Akshat Singhal
 
