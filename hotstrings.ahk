@@ -73,11 +73,12 @@ SendInput,
 Hi ,
 
 
+
 BR,
 Akshat Singhal
 
 )
-SendInput, {Up 5}{End}{Left}
+SendInput, {Up 7}{End}{Left}
 return
 
 ::rslot::
@@ -91,7 +92,7 @@ BR,
 Akshat Singhal
 
 )
-SendInput, {Up 6}{End}{Left}
+SendInput, {Up 7}{End}{Left}
 return
 
 
@@ -129,6 +130,6 @@ return
 
 :*:i@::akshat.singhal@infineon.com
 :*:g@::akshatsinghal2110@gmail.com
-::mob::7017278231
-::myname::Akshat Singhal
+:*:mob@::7017278231
+:*:name@::Akshat Singhal
 
