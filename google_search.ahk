@@ -3,7 +3,7 @@
 ^+x::
 {
 	Send, ^c
-    ClipWait, 2 ; Wait for data to fill clipboard
+    ClipWait, 5 ; Wait for data to fill clipboard
 	if ErrorLevel
 	{
 		MsgBox, The attempt to copy text onto the clipboard failed.
