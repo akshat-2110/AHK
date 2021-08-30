@@ -1,6 +1,6 @@
 #SingleInstance,Force
 
-^+c::
+^+x::
 {
 	Send, ^c
     ClipWait, 2 ; Wait for data to fill clipboard
