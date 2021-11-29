@@ -18,6 +18,8 @@ SetWorkingDir, %A_ScriptDir%
 ::env::environment
 ::comm::communication
 ::exp::experience
+::bcz::because
+::cmd::command
 
 ::ahk::AutoHotkey
 ::u::you
@@ -132,4 +134,5 @@ return
 :*:g@::akshatsinghal2110@gmail.com
 :*:mob@::7017278231
 :*:name@::Akshat Singhal
+:*:linux@::AkshSingh@21101997
 

@@ -26,4 +26,3 @@ Up & Down:: ; Convert text to capitalized
     selection := GetSelection()
     StringUpper selection, selection, T
     Send %selection%
-
